@@ -4,8 +4,7 @@
 }
 
 h1 {
-    display: centre;
-
+    text-align: center;
 }
 
 .box-container {
